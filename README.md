@@ -7,4 +7,4 @@
 
 [network] (file:///etc/networks)
 
-[usr] (file:///usr/)
+[usr] (www.baidu.com)
