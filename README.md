@@ -1,10 +1,10 @@
 # ctf-crypto
 密码相关题目汇总
 
-[etc](file:///etc/)
+[etc] (file:///etc/)
 
-[tmp](file:///tmp)
+[tmp] (file:///tmp)
 
-[network](file:///etc/networks)
+[network] (file:///etc/networks)
 
-[usr](file:///usr/)
+[usr] (file:///usr/)
